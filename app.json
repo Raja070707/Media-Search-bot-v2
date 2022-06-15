@@ -15,7 +15,7 @@
       "inline"
     ],
     "website": "https://github.com/Jinn-Of-Telegram/Media-Search-bot-v2",
-    "repository": "https://github.com/Jinn-Of-Telegram/Media-Search-bot-v2",
+    "repository": "https://github.com/Raja070707/Media-Search-bot-v2/blob/master/README.md",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token from @BotFather",
